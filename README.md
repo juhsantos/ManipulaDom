@@ -1,2 +1,1 @@
-# Robotron
-Projeto utilizando Javascript para manipulação de DOM utilizando Js
+# robotron-2000
